@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ginlord111
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... web dev and other stuffs
 - 📫 How to reach me ... just dm me
 
