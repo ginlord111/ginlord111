@@ -30,13 +30,16 @@ Front-End Developer | React | Next JS | Typescript | Graphql | Vue
         <source
             media="(prefers-color-scheme: dark)"
             srcset="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
+         height="30"
         />
         <source
             srcset="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
+              height="30"
         />
         <img
             alt="github contribution grid snake animation"
             src="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
+            height="30"
         />
     </picture>
 </p>
