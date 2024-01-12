@@ -29,15 +29,14 @@ Front-End Developer | React | Next JS | Typescript | Graphql | Vue
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/mohammadzainabbas/mohammadzainabbas/output/github-snake-dark.svg"
+            srcset="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
         />
         <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/mohammadzainabbas/mohammadzainabbas/output/github-snake.svg"
+            srcset="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
         />
         <img
             alt="github contribution grid snake animation"
-            src="https://raw.githubusercontent.com/mohammadzainabbas/mohammadzainabbas/output/github-snake.svg"
+            src="https://64.media.tumblr.com/ab12698fc5cd6d3f02b510e2f56c451e/tumblr_pza47t6JSC1s26zs1o1_1280.gif"
         />
     </picture>
 </p>
