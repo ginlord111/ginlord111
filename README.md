@@ -1,5 +1,5 @@
 Front-End Developer | React | Next JS | Typescript | Graphql | Vue
-Check my portfolio @https://ronn-portfolio.netlify.app/
+<p>Check my portfolio @https://ronn-portfolio.netlify.app/</p>
 # 
 <p align="center">
     <picture>
