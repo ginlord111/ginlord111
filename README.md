@@ -12,6 +12,18 @@ Front-End Developer | React | Next JS | Typescript | Graphql | Vue
         >
     </picture>
 </p>
+<p align="center">
+    <picture>
+        <source 
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=github" 
+            media="(prefers-color-scheme: dark)"
+        >
+    <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=github" 
+            alt="GitHub - Profile summary card"
+        >
+    </picture>
+</p>
 
 <p align="center">
     <picture>
