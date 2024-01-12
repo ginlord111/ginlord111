@@ -7,7 +7,7 @@
             media="(prefers-color-scheme: dark)"
         >
     <img 
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=github_dark" 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=github_dark" 
             alt="GitHub - Profile summary card"
         >
     </picture>
