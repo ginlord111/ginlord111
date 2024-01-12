@@ -1,25 +1,25 @@
 Front-End Developer | React | Next JS | Typescript | Graphql | Vue
 <p>Check my portfolio @https://ronn-portfolio.netlify.app/</p>
-<p align="left">
+<p align="center">
     <picture>
         <source 
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=github_dark" 
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=algolia" 
             media="(prefers-color-scheme: dark)"
         >
     <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=github_dark" 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=algolia" 
             alt="GitHub - Profile summary card"
         >
     </picture>
 </p>
-<p align="right">
+<p align="center">
     <picture>
         <source 
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=github" 
+            srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=algolia" 
             media="(prefers-color-scheme: dark)"
         >
     <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=github" 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=algolia" 
             alt="GitHub - Profile summary card"
         >
     </picture>
