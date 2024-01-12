@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+Front-End Developer | React | Next JS | Typescript | Graphql | Vue
 # 
 <p align="center">
     <picture>
