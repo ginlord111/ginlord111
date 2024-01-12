@@ -1,6 +1,6 @@
 Front-End Developer | React | Next JS | Typescript | Graphql | Vue
 <p>Check my portfolio @https://ronn-portfolio.netlify.app/</p>
-<p align="center">
+<p align="left">
     <picture>
         <source 
             srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginlord111&theme=github_dark" 
@@ -12,7 +12,7 @@ Front-End Developer | React | Next JS | Typescript | Graphql | Vue
         >
     </picture>
 </p>
-<p align="center">
+<p align="right">
     <picture>
         <source 
             srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ginlord111&theme=github" 
