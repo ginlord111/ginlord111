@@ -1,10 +1,10 @@
 <img alt="Hello I am Ronnie Nicandro"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4500&pause=500&color=702963&center=true&multiline=true&repeat=false&random=false&width=1500&height=90&lines=Hello+Hello;I'm+Ronnie+Nicandro%2C+a+Front-end+Developer+and+a+Gengar+enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4500&pause=500&color=702963&center=true&multiline=true&repeat=false&random=false&width=1500&height=90&lines=Hello+Hello;I'm+Ronnie+Nicandro%2C+a+Software+Developer+and+a+Gengar+enthusiast"
     width="100%"
 />
 
    <pre align="center">
-👩‍💻 Front-end Developer:
+👩‍💻 Software Developer:
 🖥️ Expertise in creating user-friendly interfaces.
 🎨 Designing seamless and responsive web experiences.
 🌐 Familiar with front-end programming languages.
